@@ -1,7 +1,7 @@
 # VR_Learning
 Copy of our VR_Learning project
 
-This project was initiated by Prajakt Pande a researcher on RUC who wanted to create a program to investigate virtual reality's qualities as an educational technology. The task was to create an interactive prototype that could be used to simulate "abstract concepts", by which he meant anything related to the natural sciences. 
+This project was initiated by Prajakt Pande a researcher at RUC who wanted to create a program to investigate virtual reality's qualities as an educational technology. The task was to create an interactive prototype that could be used to simulate "abstract concepts", by which he meant anything related to the natural sciences. 
 
 The group consisted of Myself, Benjamin Westermann and Lasse Bjerg.
 
