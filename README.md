@@ -11,5 +11,5 @@ Benjamin and I developed the code while Lasse did an outstanding job on the rese
 
 The project had to give multiple simulations of the same concept, and the simulations should have an effect on each other, thus illustrating multiple ways of representing the concept, to further the users understanding and thus learning. Our prototype made it possible for the user to build molecules and show them via a table, then using that table, they can add molecules to the ones they have build.
 
-This link is a brief video, showing myself testing out the prototype we created: https://www.youtube.com/watch?v=CrFtwS6dvfo&t=1s
+This link is a brief video, showing a test of the prototype we created: https://www.youtube.com/watch?v=CrFtwS6dvfo&t=1s
 
