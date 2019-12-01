@@ -2,6 +2,7 @@
 Copy of our VR_Learning project
 
 The Code is in VR_Learning -> assests -> scripts
+
 There are pictures in VR_Learning -> pics
 
 This link is a brief video, showing a testrun of the project we created: https://www.youtube.com/watch?v=CrFtwS6dvfo&t=1s
