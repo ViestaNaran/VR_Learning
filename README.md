@@ -1,7 +1,7 @@
 # VR_Learning
 Copy of our VR_Learning project
 
-The Code is in VR_Learning -> assests -> scripts
+The Code is in VR_Learning -> assests -> Brilleaberne -> scripts
 
 There are pictures in VR_Learning -> pics
 
